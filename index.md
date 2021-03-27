@@ -25,7 +25,7 @@
 
 <br>
 
-**All the <b style="color:red">accepted papers </b> can be found [here](/accept.html)**
+**All the <b style="color:red">accepted papers </b> can be found [here](/dlp-kdd2019/accept.html)**
 
 ## Introduction
 
